@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: r123mahajan/frontend:latest
+          image: 1006sneha/SA_frontend:latest
           ports:
             - containerPort: 80
