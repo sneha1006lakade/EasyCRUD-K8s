@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
     - name: backend
-      image: 1006sneha/SA_backend:latest
+      image: 1006sneha/k8s_backend:latest
       ports:
         - containerPort: 8085
